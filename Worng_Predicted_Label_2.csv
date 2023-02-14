@@ -1,0 +1,4 @@
+srcip,sport,dstip,dsport,proto,state,dur,sbytes,dbytes,sttl,dttl,sloss,dloss,service,Sload,Dload,Spkts,Dpkts,dwin,stcpb,dtcpb,smeansz,dmeansz,trans_depth,res_bdy_len,Sjit,Djit,Ltime,Sintpkt,Dintpkt,tcprtt,synack,ackdat,is_sm_ips_ports,ct_state_ttl,ct_flw_http_mthd,is_ftp_login,ct_ftp_cmd,ct_srv_src,ct_srv_dst,ct_dst_ltm,ct_src_ ltm,ct_src_dport_ltm,ct_dst_sport_ltm,ct_dst_src_ltm,Actual Label,Predicted Label
+59.166.0.3,5699,149.171.126.2,6881,tcp,CON,0.149886,329,0,31,0,0,0,-,0.0,0.0,1,0,0,439488796,0,329,0,0,0,0.0,0.0,1421958837,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0,19,25,20,21,16,4,16,0,1
+59.166.0.3,5699,149.171.126.2,6881,tcp,CON,0.149886,329,0,31,0,0,0,-,0.0,0.0,1,0,0,439488796,0,329,0,0,0,0.0,0.0,1421958837,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0,19,25,20,21,16,4,16,0,1
+59.166.0.6,1990,149.171.126.4,6881,tcp,CON,0.0,57,0,32,0,0,0,-,0.0,0.0,1,0,0,3652569940,0,57,0,0,0,0.0,0.0,1421969455,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0,12,8,7,9,6,1,7,0,1
